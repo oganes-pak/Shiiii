@@ -96,5 +96,5 @@ USB Encryptor — это приложение на Python с графическ�
 - Процесс
 ![image](https://github.com/user-attachments/assets/d48501b1-3a16-4198-bb29-8910ff8c571c)
 
-
+https://youtu.be/JCQhOczMCQI
 
