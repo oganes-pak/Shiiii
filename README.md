@@ -70,14 +70,21 @@ USB Encryptor — это приложение на Python с графическ�
 ## Разработчик
 - grock
 - **Имя:** [@narkomanchik228]
-
+Интерфес программы
 ![image](https://github.com/user-attachments/assets/7a477b3e-b2cc-4999-ba24-410aadbc42f7)
+Задаем пароль 
 ![image](https://github.com/user-attachments/assets/8ede22cb-d079-424e-8b41-d481c2e14abc)
+Процесс шифрования
 ![image](https://github.com/user-attachments/assets/b43c5227-498b-4c79-8761-485427b0bb16)
+Демонстрация того что после шифрования фото не открывается
 ![image](https://github.com/user-attachments/assets/d2ad7660-b435-4cdc-89e1-0fbc991580e3)
+Изображение после расшифровки
 ![image](https://github.com/user-attachments/assets/404a97f2-f582-475d-b28f-cce0c91ca90b)
+Файлы на флешке после шифрования 
 ![image](https://github.com/user-attachments/assets/fce62a12-bcee-448b-83fc-9348cbad5591)
+Файлы на флешке до шифрования 
 ![image](https://github.com/user-attachments/assets/8911747e-d07d-4048-b188-9fe698a54dbc)
+Процесс
 ![image](https://github.com/user-attachments/assets/d48501b1-3a16-4198-bb29-8910ff8c571c)
 
 
